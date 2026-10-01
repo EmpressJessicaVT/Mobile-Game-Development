@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Background - Menu
+  - UI Element
+  - cannonBall_Player
+  - Enemy_Ships
+  - CannonBall_Enemy
+  - BossPathing
+  - Foreground
+  - Health_Collectible
+  - Cannon_Collectible
+  - Collectibles
+  - Menu_Targets
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 550118635
+    locked: 0
+  - name: Cannonballs
+    uniqueID: 2817794887
+    locked: 0
+  - name: Player
+    uniqueID: 964137773
+    locked: 0
+  - name: Collectibles
+    uniqueID: 2918341183
+    locked: 0
+  - name: Enemies
+    uniqueID: 580141977
+    locked: 0
+  - name: Foreground
+    uniqueID: 3240529799
+    locked: 0
+  m_RenderingLayers:
+  - Default
